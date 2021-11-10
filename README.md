@@ -1,3 +1,3 @@
 # Dino_Game
 Redesign Dino-Game
-![image](https://user-images.githubusercontent.com/62978328/141208800-ddb9bdd3-4d4a-41bc-a0f8-407cb14f058e.png)
+![image](https://user-images.githubusercontent.com/62978328/141208875-9d955de9-e6b0-44dc-a668-9bcccda6c105.png)
